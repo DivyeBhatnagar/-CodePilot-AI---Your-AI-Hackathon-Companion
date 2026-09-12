@@ -8,6 +8,21 @@
     "start": "next start",
     "lint": "next lint"
   },
+  "description": "Production Next.js 14 frontend for CodePilot AI SaaS Hackathon Co-Pilot.",
+  "keywords": [
+    "nextjs",
+    "react",
+    "typescript",
+    "tailwind-css",
+    "monaco-editor",
+    "fastapi",
+    "firebase",
+    "ai",
+    "gpt4",
+    "saas"
+  ],
+  "author": "Divye Bhatnagar",
+  "license": "MIT",
   "dependencies": {
     "autoprefixer": "^10.4.24",
     "class-variance-authority": "^0.7.1",
